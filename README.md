@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shashank1234751/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -25,4 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shashank1234751/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Array
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

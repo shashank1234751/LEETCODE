@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashank1234751/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1652-defuse-the-bomb](https://github.com/shashank1234751/LEETCODE/tree/master/1652-defuse-the-bomb) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashank1234751/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashank1234751/LEETCODE/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashank1234751/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

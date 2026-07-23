@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashank1234751/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shashank1234751/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0187-repeated-dna-sequences](https://github.com/shashank1234751/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashank1234751/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shashank1234751/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashank1234751/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashank1234751/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shashank1234751/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

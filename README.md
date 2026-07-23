@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/shashank1234751/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashank1234751/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1652-defuse-the-bomb](https://github.com/shashank1234751/LEETCODE/tree/master/1652-defuse-the-bomb) |

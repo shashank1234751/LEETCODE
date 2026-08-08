@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashank1234751/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/shashank1234751/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/shashank1234751/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/shashank1234751/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/shashank1234751/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0347-top-k-frequent-elements](https://github.com/shashank1234751/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashank1234751/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shashank1234751/LEETCODE/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/shashank1234751/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashank1234751/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shashank1234751/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shashank1234751/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shashank1234751/LEETCODE/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shashank1234751/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

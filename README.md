@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shashank1234751/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shashank1234751/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/shashank1234751/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+| [0217-contains-duplicate](https://github.com/shashank1234751/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shashank1234751/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashank1234751/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashank1234751/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shashank1234751/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/shashank1234751/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shashank1234751/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shashank1234751/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/shashank1234751/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shashank1234751/LEETCODE/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/shashank1234751/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/shashank1234751/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/shashank1234751/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/shashank1234751/LEETCODE/tree/master/0435-non-overlapping-intervals) |

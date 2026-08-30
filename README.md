@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/shashank1234751/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shashank1234751/LEETCODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashank1234751/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank1234751/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shashank1234751/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shashank1234751/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shashank1234751/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/shashank1234751/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank1234751/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/shashank1234751/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shashank1234751/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy

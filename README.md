@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashank1234751/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shashank1234751/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shashank1234751/LEETCODE/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/shashank1234751/LEETCODE/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shashank1234751/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/shashank1234751/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/shashank1234751/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shashank1234751/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shashank1234751/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/shashank1234751/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/shashank1234751/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shashank1234751/LEETCODE/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashank1234751/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shashank1234751/LEETCODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashank1234751/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/shashank1234751/LEETCODE/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/shashank1234751/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |

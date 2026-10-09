@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shashank1234751/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shashank1234751/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shashank1234751/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/shashank1234751/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/shashank1234751/LEETCODE/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/shashank1234751/LEETCODE/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shashank1234751/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashank1234751/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/shashank1234751/LEETCODE/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shashank1234751/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/shashank1234751/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/shashank1234751/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shashank1234751/LEETCODE/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/shashank1234751/LEETCODE/tree/master/0295-find-median-from-data-stream) |
